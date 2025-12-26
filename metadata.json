@@ -1,0 +1,7 @@
+{
+  "name": "VoxGenius AI Voice Maker",
+  "description": "A sophisticated AI-powered text-to-speech engine that transforms your scripts into high-quality human-like voices using Gemini's advanced multimodal capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
